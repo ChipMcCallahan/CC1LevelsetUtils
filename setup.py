@@ -9,7 +9,7 @@ setup(
     # Needed to actually package something
     packages=['ccutils'],
     # Needed for dependencies
-    install_requires=['struct', 'io'],
+    install_requires=[],
     # *strongly* suggested for sharing
     version='0.1',
     # The license can be anything you like
