@@ -7,7 +7,7 @@ setup(
     author='Chip McCallahan',
     author_email='thisischipmccallahan@gmail.com',
     # Needed to actually package something
-    packages=['ccutils'],
+    packages=['proto', 'reader', 'writer'],
     # Needed for dependencies
     install_requires=[],
     # *strongly* suggested for sharing
